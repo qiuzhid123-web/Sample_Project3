@@ -1,0 +1,28 @@
+{
+  "liftoff": [
+    "640392main_STS-26_Liftoff.mp3",
+    "640393main_STS-41D_Liftoff.mp3",
+    "590189main_ringtone_131_launchNats.mp3",
+    "590318main_ringtone_135_launch.mp3",
+    "590329main_ringtone_SDO_launchNats.mp3"
+  ],
+  "countdown": [
+    "577774main_STS-135Launchringtone-v2.mp3"
+  ],
+  "mercury": [
+    "582368main_Mercury-6_God-Speed.mp3",
+    "582371main_Aurora-7_Liftoff.mp3"
+  ],
+  "apollo": [
+    "584851main_Apollo-12_Cardiac-Sim.mp3"
+  ],
+  "spacewave": [
+    "584791main_spookysaturn.mp3",
+    "584795main_saturn_radio_waves.mp3",
+    "603921main_voyager_jupiter_lightning.mp3",
+    "693857main_emfisis_chorus_1.mp3"
+  ],
+  "beep": [
+    "578626main_sputnik-beep.mp3"
+  ]
+}
